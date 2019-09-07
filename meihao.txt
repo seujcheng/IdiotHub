@@ -1,2 +1,2 @@
-fetch:!
+我最帅！
 world
